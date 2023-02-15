@@ -1,21 +1,16 @@
-# Week3
+# Real Time Programming Laboratory Works
 
-**TODO: Add description**
+### University: _Technical University of Moldova_
+### Faculty: _Computers, Informatics and Microelectronics_
+### Department: _Software Engineering and Automatics_
+### Author: _Graur Elena_
 
-## Installation
+----
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `week_3` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:week_3, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/week_3>.
-
+## Week 3
+&ensp;&ensp;&ensp; The tasks of this week was focused on developing a basic 
+knowledge on the Actor model, a way on dealing with concurrency.
+&ensp;&ensp;&ensp; Starting with "Minimal Task" and ending with "Bonus Task",
+exercises increasein complexity of their implementation and the used techniques.
+In the context of this week, it is possible to find: basic message passing, actors initiation, 
+superviser and chils actors creation, basic semaphore implementation, etc.
