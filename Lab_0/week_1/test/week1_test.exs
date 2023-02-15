@@ -7,6 +7,6 @@ defmodule Week1Test do
   end
 
   test "failure greeting" do
-    assert Week1.hello() == "You're a failure"
+    assert Week1.hello() == "I am not the only failure here"
   end
 end
