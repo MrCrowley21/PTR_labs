@@ -6,7 +6,7 @@ defmodule Monitored do
 
 # Monitored actor
 
-def startLink do
+def startLink() do
   pid = spawn_link(__MODULE__, :doAction, [])
   Process.register(pid, :monitored)
   pid
